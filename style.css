@@ -1,0 +1,19 @@
+h1
+{ color: red;
+
+}
+
+body
+
+{
+	background-color: blue;
+}
+
+#carte
+{
+		width: 800px;
+		margin:0 auto;
+		background-color: white;
+		texte-align: center;
+		align-content: center;
+}
